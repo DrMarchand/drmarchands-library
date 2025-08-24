@@ -1,0 +1,37 @@
+# Dr. Marchand’s Library — Publish Pack (v1.0.0)
+
+You said: **publish the books**. This pack lets you do it in two modes:
+
+1) **Static drop** (no API): upload `/books/**/index.html` and `manifest.json` to your site.
+2) **API upsert**: POST each book to your endpoint using the included `openapi.yaml` and the `publish_books.sh`.
+
+If you can’t POST from here, use the static drop or run the shell script locally.
+
+## Folder map
+
+- `manifest.json` — master list of books
+- `books/<slug>/metadata.json` — single book metadata
+- `books/<slug>/index.html` — rendered page per book
+- `openapi.yaml` — API contract for /library/books
+- `publish_books.sh` — curl helper
+- `README.md` — this file
+
+## Static publish (drop-in)
+
+Upload the `books/` folder and `manifest.json` to your web root or `/library`. Link to them from your main site or the OS Portal.
+
+## API publish (upsert)
+
+1. Deploy an endpoint that matches `openapi.yaml` (or adapt it to your stack).
+2. Run:
+   ```bash
+   bash publish_books.sh https://drmarchandslaboratory.com/api
+   ```
+
+### Example GET
+
+```bash
+curl -s https://drmarchandslaboratory.com/api/library/books/atlas-os-overview | jq
+```
+
+— Sector 0346 • Built 2025-08-24 05:46:40
