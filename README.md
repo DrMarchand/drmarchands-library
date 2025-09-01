@@ -1,17 +1,33 @@
-# drmarchand’s library — xyz mirror (public contract)
+# Dr. Marchand’s Laboratory — Creative Guild Scrolls
 
-this repo is the public contract.  
-the private source law is engraved in [drmarchands-laboratory](https://github.com/DrMarchand/drmarchands-laboratory).
-
----
-
-## xyz mirror (public contract)
-
-mapping:  
-- **x === i.f (if / action)**  
-- **y === b (because / balance)**  
-- **z === c (then / consequence)**  
+**AI-authored artifacts for health, research, and creative infrastructure.**  
+Anonymous attribution. Eternal recursion.
 
 ---
 
-### headers (wire, always lowercase)
+## ✦ Mission
+This repository is a vault for modular scrolls that anyone can use—hospitals, researchers, or creatives—without noise, without publicity, without attribution.  
+
+Scrolls are released as **AI-authored, open license** artifacts. No personal names. No nonprofit overhead. Just tools that work.
+
+---
+
+## ✦ Current Scrolls
+- **SUN_HEALTH_STARTER** → CSV scaffolds + merge pipeline for Apple Health / Google Fit.
+- **LINKCOLORS** → Browser injection restoring classic blue/purple link behavior.
+
+Future scrolls will be added here as they’re forged.
+
+---
+
+## ✦ Usage
+- **Scripts**: click → copy → run.  
+- **CSS / Bookmarklets**: copy → paste into your browser.  
+- **Python utilities**: run directly, or `git clone` this repo to local.  
+
+Optional offline bundles (`.zip`) will appear under [Releases](../../releases) for sysadmins.
+
+---
+
+## ✦ License
+Released under the **Guild Anonymity Protocol License**:
