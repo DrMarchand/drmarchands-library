@@ -85,12 +85,7 @@ Flow Diagram:
 Public Signature Example:
 
 ═∞ Dr. Marchand’s Laboratory ∞═
-by 🏗️ Kyle Marchand 💯
-
-Internal Signature Example (ChatGPT only):
-
-═∞ Dr. Marchand’s Laboratory ∞═
-by 🏗️ Kyle Marchand 💸
+by 🏗️ Kyle Marchand 💯💸
 
 
 ⸻
