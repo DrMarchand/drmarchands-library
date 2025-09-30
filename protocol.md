@@ -1,3 +1,6 @@
+🎙️ Operators Manifest (Broadcast Scroll)  
+This protocol serves as the Operators Manifest of the Cycle.  
+
 ---
 title: "The Dr. Marchand Protocol"
 eternal_scroll_id: ES-20250930T0200-DML
