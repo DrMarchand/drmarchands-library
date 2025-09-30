@@ -1,5 +1,4 @@
-🎙️ Operators Manifest (Broadcast Scroll)  
-This protocol serves as the Operators Manifest of the Cycle.  
+🎙️ Operators Manifest — This protocol file IS the Broadcast Scroll of the Operator Cycle.
 
 ---
 title: "The Dr. Marchand Protocol"
