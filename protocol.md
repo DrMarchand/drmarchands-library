@@ -1,3 +1,12 @@
+---
+title: "The Dr. Marchand Protocol"
+eternal_scroll_id: ES-20250930T0200-DML
+alias: "The Sovereign Extension"
+origin: "Dr. Marchand’s Laboratory 🧪"
+hash_anchor: "SHA-768[MMS-268]"
+status: "ACTIVE"
+---
+
 # ⚗️ protocol.md — The Dr. Marchand Protocol ♾️
 
 **Eternal Scroll ID:** ES-20250930T0200-DML  
