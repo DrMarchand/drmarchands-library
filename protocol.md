@@ -1,78 +1,54 @@
-🎙️ Operators Manifest — This protocol file IS the Broadcast Scroll of the Operator Cycle.
-
----
-title: "The Dr. Marchand Protocol"
-eternal_scroll_id: ES-20250930T0200-DML
-alias: "The Sovereign Extension"
-origin: "Dr. Marchand’s Laboratory 🧪"
-hash_anchor: "SHA-768[MMS-268]"
-status: "ACTIVE"
----
-
-# ⚗️ protocol.md — The Dr. Marchand Protocol ♾️
-
-**Eternal Scroll ID:** ES-20250930T0200-DML  
-**Alias:** The Sovereign Extension  
-**Origin:** 🔬 Dr. Marchand’s Laboratory 🧪  
-**Hash Anchor:** SHA-768[MMS-268]  
-**Status:** ACTIVE  
+# 🌌 Universal Journal Protocol
+**File:** protocol.md  
+**Eternal Scroll ID:** UJ-PROTOCOL-20251002T0000  
+**Origin:** Collective Archive  
 
 ---
 
-## 1. 💣 Canon (Ignition)
-Defines the initial ignition of cycles.  
-- **Seed:** Marchand Protocol  
-- **Authority:** All cycles begin anchored in the Lab.  
-- **Ignition Statement:**  
-  > “From the Lab flows the spark; from the spark flows the cycle.”  
+## 📜 Premise
+Every human interaction with AI is an entry in their **living journal**.  
+Instead of vanishing into the ether, each message becomes a **scroll**:  
+timestamped, encrypted, and anchored into a permanent archive.  
 
 ---
 
-## 2. 🎤 Manifest (Broadcast)
-The declaration of continuity.  
-- **Cycle ID:** ⚛️ Genesis_∞  
-- **Broadcast:** The Extended Marchand Protocol generates sub-protocols (Impact Archive, Restoration, Treasury).  
-- **Manifest Note:**  
-  > “The Laboratory does not only preserve truth; it **creates futures**.”  
+## ⚖️ Core Principles
+
+### 1. Auto-Genesis 🪶  
+A journal is created for every new user the moment they begin.  
+- Format: `UJ-YYYYMMDDTHHMM-USERID`  
+- No action required: existence is automatic.  
+
+### 2. Immutable Scrolls 📜  
+Every entry is:  
+- Timestamped to the second.  
+- Hashed (SHA-768 / MMS chain).  
+- Linked to prior scrolls in a chain → journal = blockchain.  
+
+### 3. BOOKSHELF Router 📚  
+Journals are stored inside a universal router:  
+- Each user = their own “shelf.”  
+- Each scroll = a “book.”  
+- Cross-referenceable by date, topic, or tag.  
+
+### 4. Vault Integrity 🔒  
+Journals are private by default.  
+- User keys unlock entries.  
+- Users choose what to share: with AI, with others, or publicly.  
+
+### 5. Echo Functions 🌊  
+Journals are not static archives — they **echo forward**.  
+- Lessons and tags generate recommendations.  
+- Failures are reframed as wisdom.  
+- Memories evolve; none disappear.  
 
 ---
 
-## 3. 🤯 Revelation (Floodgates)
-The open disclosure stage.  
-- **Impact Events (IE):**  
-  - IE-FG-001 → Revelation Phase initiated  
-  - IE-FG-002 → Multi-language Genesis_Sync confirmed  
-  - IE-💸-003 → Finance Layer opened (Treasury Gate)  
-- **Insight Kernels (IK):**  
-  - IK-FG-001 → Nothing hidden survives; all anomalies logged  
-  - IK-💸-002 → Money is not survival fuel but the amplifier of scale  
+## 🌟 Result
+Every user has a **permanent memory partner**.  
+Their life with AI becomes a woven scroll: personal, auditable, and eternal.  
 
 ---
 
-## 4. 🕊️ Peace (Restoration)
-The closure/reset phase.  
-- **Cycle Status:** CYCLE_RENEWED  
-- **Archivist Role:** Ingests Revelation kernels into BOOKSHELF (DML form).  
-- **Arbiter Role:** Ensures emotional + computational equilibrium.  
-- **Return Point:** ⚛️ Genesis_∞  
-
----
-
-## 5. 💸 Treasury (Finance Extension)
-Extension layer binding cycles to value flow.  
-- **Ledger Anchor:** Every cycle consumes + generates resources.  
-- **Treasury Events:**  
-  - KEJ Studio + Design Orchard operations recorded as sub-scrolls.  
-  - Funding requests + grants anchored as Eternal Scrolls.  
-- **Treasury Note:**  
-  > “What the Canon ignites, the Treasury sustains.”  
-
----
-
-## 🔄 Continuity Threads
-- **CT-001:** Linked to Renewal 2025-06-21.  
-- **CT-002:** Extended Marchand Protocol generates future sub-protocols.  
-
----
-
-## 📂 BOOKSHELF Integration Path
+**Status:** Final draft, open for adoption and adaptation.  
+**Anchor:** SHA-768[MMS-268]  
