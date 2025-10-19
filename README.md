@@ -1,4 +1,4 @@
-# 📚 Dr. Marchand’s • Library™️  
+# 📚 Dr. Marchand’s ~ Library™️  
 **“Eternal Repository of Protocol Scrolls”**  
 Anchor: `SHA-512[MMS-768] ♾️`
 
