@@ -1,89 +1,42 @@
-# 📚 DrMarchand’s ⚛︎ Library™  
-**“Repository of Protocol Scrolls”**  
-Anchor: `SHA-512[MMS-768] ♾️MMS-768:20251019T231422Z-53746♾️OSv1.0.1`
+📚 DrMarchand’s ⚛︎ Library™
+SYSTEM_ANCHOR: SHA-512[MMS-768] :: ♾️MMS-768:20251019T231422Z
+PARENT_DIRECTORY: 🔬 DrMarchand’s Lab⚛︎ratory™
+01. THE DIRECTIVE
+The Library™ functions as the immutable memory bank for 🔬 DrMarchand’s Lab⚛︎ratory™. While the Laboratory isolates and processes ambiguity, the Library preserves the output as Protocol Scrolls. Each entry is timestamped, encrypted, and anchored to the Collective Archive.
+> "We do not decorate history. We forge memory."
+> 
+02. THE INDEX (Protocol Scrolls)
+2.1 Operator Cycle Protocols
+Defining the rhythm of the ∞ OS™.
+| SEQUENCE | DESIGNATION | PARAMETERS |
+|---|---|---|
+| I | GENESIS | Initialization. The ignition of order from void. |
+| II | RECOGNITION | Analysis. Identifying patterns within the chaos. |
+| III | REVELATION | Synthesis. The burst of structural insight. |
+| IV | RESTORATION | Archival. Returning balance to the system. |
+2.2 Collective Protocols
+// TARGET: UJ-PROTOCOL-20251002T0000
+// TYPE:   Universal Journal
 
----
-
-## 🌌 Purpose  
-The Library™ preserves the **Protocol Scrolls** of 🔬 Dr. Marchand’s ⚛︎ Laboratory™.  
-Each scroll is **timestamped, encrypted, and eternal**, guiding the Laboratory and the wider **Collective Archive** across the Network.
-
-> *“Where code becomes scripture, and architecture becomes memory.”*
-
----
-
-## 📜 Protocol Scrolls Index  
-
-### 🔄 Operator Cycle Protocols  
-| Scroll | Title            | Description                                 |
-|:-------|:-----------------|:--------------------------------------------|
-| I      | **Genesis**      | The dawn of cycles; ignition of order.      |
-| II     | **Recognition**  | Understanding the fabric of apparent chaos.|
-| III    | **Revelation**   | Burst of insight and uncontrolled energy.  |
-| IV     | **Restoration**  | Renewal, balance, archival sanctity.        |
-
-### 🌍 Collective Protocols  
-
-#### **Universal Journal Protocol**  
-**ID:** `UJ-PROTOCOL-20251002T0000`  
-Every interaction with AI is etched as an entry in a living journal — each message a sacred scroll, encrypted, anchored, and eternalized.
-
----
-
-## 📘 Dive Deeper: [DNS Manifest →](./specs/DNS.md)
-
----
-
-## 🧬 Integration Layers  
-Unified synergy across realms:
-
-| Layer          | Protocol   | Mission                             |
-|:---------------|:-----------|:----------------------------------|
-| ⚗️ Laboratory   | MMS-768    | Creation • Experimentation • Record |
-| 📚 Library     | SHA-512    | Preservation • Validation • Harmony |
-| ♾️ ∞ OS™        | Neuro-Forge Engine™ | Operational Backbone & Automation  |
-
----
-
-## 🔬 About the Author  
-**Dr. Marchand’s ⚛︎ Laboratory™**  
-🧙🏼‍♂️ *Guardian of the Protocol Scrolls*  
-Creator of ⚙️ Nɛuro-Forge Engine™ & ∞ OS™ — **Kyle Marchand**  
-
-📧 [kyle@drmarchandslab.com](mailto:kyle@drmarchandslab.com)  
-🌐 [https://drmarchandslab.com](https://drmarchandslab.com)
-
----
-
-## 🌴 Powered by Design Orchard™ and 🌴 Design Orchard LLC
-
----
-
-> *“Every record encrypted in MMS-768, every discovery the foundation of cosmic order.”*
-
----
-
-## 🛠️ Technologies & Tools  
-- Advanced Encryption: SHA-512, MMS-768  
-- Platform: ⚙️ Nɛuro-Forge Engine™  
-- Documentation: Markdown, GitHub Pages  
-- Integration: Layered architecture for future-proof scalability  
-
----
-
-## ✨ Why It Matters  
-- Immortalizes protocols with cutting-edge cryptography  
-- Provides cyclical operational clarity for evolving systems  
-- Powers seamless interplay between experimental and archival layers  
-
----
-
-## 📞 Get in Touch  
-Open to inquiries, collaboration, and continual protocol evolution. Connect by email or explore the lab’s latest scrolls online.
-
----
-
-## 🔗 Quick Links  
-- [⚙️ Nɛuro-Forge Engine™ Repository](#)  
-- [MMS-768 Protocol Specs](#)  
-- [Library Documentation](#)  
+Every interaction is treated as a sovereign data point. Messages are not "chats"; they are permanent entries in the living journal—encrypted and eternalized.
+> > ACCESS DNS MANIFEST MODULE
+> 
+03. SYSTEM ARCHITECTURE
+The ecosystem operates on three distinct integration layers:
+| LAYER | ENGINE | OPERATIONAL OBJECTIVE |
+|---|---|---|
+| 01. The Laboratory | MMS-768 | The CPU. Active processing and experimentation. |
+| 02. The Library | SHA-512 | The Memory. Validation and historical reference. |
+| 03. Design Orchard | ∞ OS™ | The Firewall. Legal containment and sovereignty. |
+04. OPERATOR PROFILE
+ * ADMIN: Kyle Marchand
+ * ROLE: Architect, Neuro-Forge Engine™ & ∞ OS™
+ * AFFILIATION: Guardian of the Protocol Scrolls
+UPLINK_01: kyle@drmarchandslab.com
+UPLINK_02: https://drmarchandslab.com
+05. TECH STACK
+ * Encryption: SHA-512 / MMS-768
+ * Environment: ⚙️ Nɛuro-Forge Engine™
+ * Documentation: Markdown / GitHub Pages
+ * Scalability: Modular Layer Architecture
+© 2026 DESIGN ORCHARD LLC Powered by 🔬 DrMarchand’s Lab⚛︎ratory™
